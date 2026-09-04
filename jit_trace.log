@@ -1,0 +1,9 @@
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+LLVM ERROR: PTX version 8.0 does not support target 'sm_120'. Minimum required PTX version is 8.7. Either remove the PTX version to use the default, or increase it to at least 8.7.
+LLVM ERROR: PTX version 8.0 does not support target 'sm_120'. Minimum required PTX version is 8.7. Either remove the PTX version to use the default, or increase it to at least 8.7.
+LLVM ERROR: PTX version 8.0 does not support target 'sm_120'. Minimum required PTX version is 8.7. Either remove the PTX version to use the default, or increase it to at least 8.7.
+LLVM ERROR: PTX version 8.0 does not support target 'sm_120'. Minimum required PTX version is 8.7. Either remove the PTX version to use the default, or increase it to at least 8.7.
+LLVM ERROR: PTX version 8.0 does not support target 'sm_120'. Minimum required PTX version is 8.7. Either remove the PTX version to use the default, or increase it to at least 8.7.
+LLVM ERROR: PTX version 8.0 does not support target 'sm_120'. Minimum required PTX version is 8.7. Either remove the PTX version to use the default, or increase it to at least 8.7.
+LLVM ERROR: PTX version 8.0 does not support target 'sm_120'. Minimum required PTX version is 8.7. Either remove the PTX version to use the default, or increase it to at least 8.7.
+LLVM ERROR: PTX version 8.0 does not support target 'sm_120'. Minimum required PTX version is 8.7. Either remove the PTX version to use the default, or increase it to at least 8.7.

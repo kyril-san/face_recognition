@@ -1,0 +1,9 @@
+/data
+/dataset
+/face
+/face_gpu
+/checkpoints
+*.h5
+*_all.deb
+*_all.deb.1
+

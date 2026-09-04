@@ -1,0 +1,9 @@
+# pyproject.toml
+# nvidia-pyindex
+# tensorflow[and-cuda]
+keras
+scikit-learn
+ipykernel 
+jupyter
+opencv-python 
+matplotlib
